@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Acer Nitro 17 / Ryzen 8th",
+        "price": 65699,
+        "image": "laptop1.jpg",
+        "description": "Монітор — 17,3″, 2560 x 1440 (WQHD), матовий, LED, IPS, 165 Гц Процесор — AMD Ryzen™ 7 8845HS (8 ядер, 16 потоків, 3.80–5.10 ГГц, 24 МБ)"
+    },
+    {
+        "title": "Acer Nitro V / Intel / RTX 3050",
+        "price": 40499,
+        "image": "laptop2.jpg",
+        "description": "Монітор — 15,6″, 1920 x 1080 (Full HD), матовий, LED, IPS, 144 Гц Процесор — Intel® Core™ i5-13420H (8 ядер, 12 потоків, 3.40-4.60 ГГц, 12 МБ)"
+    },
+    {
+        "title": "Asus ROG Strix G16 G614JI / Intel",
+        "price": 56999,
+        "image": "laptop3.jpg",
+        "description": "Монітор — 16” WUXGA (1920 x 1200) IPS, 165 Гц, 250 кд/м² Процесор — Intel Core i5-13450HX (3,40-4,60 ГГц, 20 МБ кеша)"
+    },
+        {
+        "title": "Acer Nitro V / Ryzen / RTX 2050",
+        "price": 27999,
+        "image": "laptop6.jpg",
+        "description": "Монітор — 15,6″, 1920 x 1080 (Full HD), матовий, LED, IPS, 144 Гц Процесор — AMD Ryzen™ 5 7535HS (6 ядер, 12 потоків, 3.30-4.55 ГГц, 16 МБ) "
+    },
+    {
+        "title": "Acer Nitro V / Ryzen / RTX 3050",
+        "price": 30699,
+        "image": "laptop5.jpg",
+        "description": "Монітор — 15,6″, 1920 x 1080 (Full HD), матовий, LED, 144 Гц Процесор — AMD Ryzen™ 5 7535HS (6 ядер, 12 потоків, 3.30-4.55 ГГц, 16 МБ) "
+    },
+    {
+        "title": "AAsus ProArt Studiobook 16 H7604JI",
+        "price": 132199,
+        "image": "laptop4.jpg",
+        "description": "Монітор — 16” WQXGA+ (3200 x 2000) OLED, 120 Гц, 500 кд/м², сенсорний Процесор — Intel Core i9-13980HX (4,00-5,60 ГГц, 36 МБ кеша) "
+    },
+    {
+        "title": "Laptop Lenovo LOQ 15IRH8 Storm Grey",
+        "price": 49999,
+        "image": "lenovo.jpg",
+        "description": "15.6”, WQHD (2560x1440), IPS, 165 Гц, з покриттям проти відблиску;"
+    },
+    {
+        "title": "Ноутбук Lenovo Yoga Pro 9 16IMH9 Luna Grey ",
+        "price": 102999,
+        "image": "lenovo2.jpg",
+        "description": "16”, 3.2K (3200x2000), Mini LED, 165 Гц, з покриттям проти відблиску;"
+    }
+    ]
